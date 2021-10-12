@@ -19,7 +19,7 @@ If you found this work useful, please cite it as
   author = "D4RK~D3VIL",
   journal = "github.com",
   year = "2021",
-  url = "https://github.com/hac4allofficial"
+  url = "https://github.com/hac4allofficial/DoSer"
 }
 ```
 
